@@ -1,0 +1,20 @@
+Setup: 
+<property><name>mapred.child.java.opts</name><value>-Xmx1024m</value></property> 
+<property><name>io.sort.mb</name><value>10</value></property>
+Question 1
+1622294
+
+Question 2A
+2
+
+Question 2B
+319
+
+Question 4
+2998
+
+Question 5
+28461
+
+Question 6
+3982
